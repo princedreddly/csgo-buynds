@@ -113,6 +113,12 @@
           "bind": "bizon",
           "slot": 5,
           "price": 1400
+        },
+        {
+          "name": "MP5-SD",
+          "bind": "mp5sd",
+          "slot": 6,
+          "price": 1500
         }
       ]
     },
